@@ -15,7 +15,7 @@
         default_layer {
             bindings = <
 &kp EQUAL  &kp N1              &kp N2    &kp N3    &kp N4    &kp N5              &kp N6     &kp N7    &kp N8     &kp N9    &kp N0    &kp MINUS
-&kp TAB    &mt LS(NUMBER_1) B  &mt LS(NUMBER_2) L     &kp E     &kp R     &kp T               &kp Y      &kp U     &kp I      &kp O     &kp P     &kp BSLH
+&kp TAB    &mt LS(NUMBER_1) B  &mt LS(NUMBER_2) L     &mt LS(NUMBER_3) D     &mt LS(NUMBER_4) C    &mt LS(NUMBER_5) V               &kp Y      &kp U     &kp I      &kp O     &kp P     &kp BSLH
 &kp LCTRL  &kp A               &kp S     &kp D     &kp F     &kp G               &kp H      &kp J     &kp K      &kp L     &kp SEMI  &kp SQT
 &kp LSHFT  &kp Z               &kp X     &kp C     &kp V     &kp B               &kp N      &kp M     &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
 &trans     &trans              &kp LGUI  &kp LALT  &trans                                   &trans    &kp LBKT   &kp RBKT  &trans    &trans
