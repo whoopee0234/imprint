@@ -51,9 +51,9 @@
         Auto_Mouse_Layer {
             bindings = <
 &trans  &trans  &trans     &trans     &trans     &trans            &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans     &trans     &trans     &trans            &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &mkp RCLK  &mkp MCLK  &mkp LCLK  &trans            &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans     &trans     &trans     &trans            &trans  &trans  &trans  &trans  &trans  &trans
+&kp BSLH       &mt RS(N0) COMMA       &mt RS(NUMBER_9) U       &mt RS(NUMBER_8) O       &mt RS(NUMBER_7) F       &mt RS(NUMBER_6) J            &trans  &trans  &trans  &trans  &trans  &trans
+&mt RS(SLASH) SLASH       &mt RIGHT_GUI I       &mt RIGHT_ALT E       &mt RIGHT_CONTROL A       &mt RIGHT_SHIFT H       &mt EQUAL Y            &trans  &trans  &trans  &trans  &trans  &trans
+&kp RSHFT       &mt RS(PERIOD) PERIOD       &mt RS(SEMICOLON) SEMICOLON       &mt RS(SQT) SQT       &kp P       &kp K            &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans     &trans     &trans                               &trans  &trans  &trans  &trans  &trans
                                       &trans     &trans  &trans    &trans  &trans  &trans
                                       &trans     &trans  &trans    &trans  &trans  &trans
