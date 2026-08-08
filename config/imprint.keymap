@@ -6,7 +6,10 @@
 #include <dt-bindings/zmk/pointing.h>
 #include <dt-bindings/zmk/rgb.h>
 
-&mt { tapping-term-ms = <300>; };
+&mt {
+    tapping-term-ms = <300>;
+    flavor = "tap-preferred";
+};
 
 / {
     chosen { zmk,physical-layout = &physical_layout_imprint_number_row_full_bottom_row; };
