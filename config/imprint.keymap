@@ -17,13 +17,13 @@
 
         default_layer {
             bindings = <
-&kp ESC        &kp LC(X)           &kp LC(V)           &kp LC(C)            &kp LG(V)           &kp LC(F)                        &kp NUMBER_6        &kp N7              &kp N8               &kp N9                       &kp N0                 &kp MINUS
-&kp TAB        &mt LS(NUMBER_1) B  &mt LS(NUMBER_2) L  &mt LS(NUMBER_3) D   &mt LS(NUMBER_4) C  &mt LS(NUMBER_5) V               &mt RS(NUMBER_6) J  &mt RS(NUMBER_7) F  &mt RS(NUMBER_8) O   &mt RS(NUMBER_9) U           &mt RS(N0) COMMA       &kp BSLH
-&kp LC(LS(S))  &mt LEFT_GUI N      &mt LEFT_ALT R      &mt LEFT_CONTROL T   &mt LEFT_SHIFT S    &mt MINUS G                      &mt EQUAL Y         &mt RIGHT_SHIFT H   &mt RIGHT_CONTROL A  &mt RIGHT_ALT E              &mt RIGHT_GUI I        &mt RS(SLASH) SLASH
-&kp LSHFT      &kp X               &kp Q               &kp M                &kp W               &kp Z                            &kp K               &kp P               &mt RS(SQT) SQT      &mt RS(SEMICOLON) SEMICOLON  &mt RS(PERIOD) PERIOD  &kp RSHFT
-&kp CAPSLOCK   &kp LS(LC(W))       &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)  &kp LC(BACKSPACE)                                                        &trans              &kp LBKT             &kp RBKT                     &trans                 &trans
-                                                                            &lt 2 KP_ENTER      &mo 3               &mkp LCLK    &mkp LCLK           &mo 3               &lt 2 KP_ENTER
-                                                                            &kp BACKSPACE       &lt 1 SPACE         &mkp RCLK    &mkp RCLK           &lt 1 SPACE         &kp BACKSPACE
+&kp ESC        &kp LC(X)           &kp LC(V)           &kp LC(C)            &kp LG(V)           &kp LC(F)                             &kp NUMBER_6        &kp N7              &kp N8               &kp N9                       &kp N0                 &kp MINUS
+&kp TAB        &mt LS(NUMBER_1) B  &mt LS(NUMBER_2) L  &mt LS(NUMBER_3) D   &mt LS(NUMBER_4) C  &mt LS(NUMBER_5) V                    &mt RS(NUMBER_6) J  &mt RS(NUMBER_7) F  &mt RS(NUMBER_8) O   &mt RS(NUMBER_9) U           &mt RS(N0) COMMA       &kp BSLH
+&kp LC(LS(S))  &mt LEFT_GUI N      &mt LEFT_ALT R      &mt LEFT_CONTROL T   &mt LEFT_SHIFT S    &mt MINUS G                           &mt EQUAL Y         &mt RIGHT_SHIFT H   &mt RIGHT_CONTROL A  &mt RIGHT_ALT E              &mt RIGHT_GUI I        &mt RS(SLASH) SLASH
+&kp LSHFT      &kp X               &kp Q               &kp M                &kp W               &kp Z                                 &kp K               &kp P               &mt RS(SQT) SQT      &mt RS(SEMICOLON) SEMICOLON  &mt RS(PERIOD) PERIOD  &kp RSHFT
+&kp CAPSLOCK   &kp LS(LC(W))       &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)  &kp LC(BACKSPACE)                                                             &trans              &kp LBKT             &kp RBKT                     &trans                 &trans
+                                                                            &mo 3               &mkp LCLK           &mkp RCLK         &mkp LCLK           &mo 3               &lt 2 KP_ENTER
+                                                                            &kp BACKSPACE       &lt 1 SPACE         &lt 2 KP_ENTER    &mkp RCLK           &lt 1 SPACE         &kp BACKSPACE
             >;
         };
 
