@@ -44,8 +44,8 @@
 &trans  &trans    &trans                       &trans          &trans            &trans             &trans    &trans                             &trans                               &trans               &trans   &trans
 &trans  &trans    &trans                       &kp UP_ARROW    &trans            &trans             &trans    &trans                             &kp UP_ARROW                         &trans               &trans   &trans
 &trans  &kp HOME  &kp LEFT_ARROW               &kp DOWN_ARROW  &kp RIGHT_ARROW   &kp END            &kp HOME  &kp LEFT_ARROW                     &kp DOWN_ARROW                       &kp RIGHT_ARROW      &kp END  &trans
-&trans  &trans    &mt LS(BACKSLASH) BACKSLASH  &kp LESS_THAN   &kp GREATER_THAN  &trans             &trans    &mt LS(LEFT_BRACKET) LEFT_BRACKET  &mt LS(RIGHT_BRACKET) RIGHT_BRACKET  &mt LS(GRAVE) GRAVE  &trans   &to 4
-&trans  &trans    &trans                       &trans          &trans                                         &trans                             &trans                               &trans               &trans   &to 4
+&trans  &trans    &mt LS(BACKSLASH) BACKSLASH  &kp LESS_THAN   &kp GREATER_THAN  &trans             &trans    &mt LS(LEFT_BRACKET) LEFT_BRACKET  &mt LS(RIGHT_BRACKET) RIGHT_BRACKET  &mt LS(GRAVE) GRAVE  &trans   &trans
+&trans  &trans    &trans                       &trans          &trans                                         &trans                             &trans                               &trans               &trans   &trans
                                                                &trans            &trans   &trans    &trans    &trans                             &trans
                                                                &trans            &trans   &trans    &trans    &trans                             &trans
             >;
